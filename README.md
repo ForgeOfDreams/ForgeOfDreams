@@ -17,7 +17,7 @@ Each project is an opportunity to bring unconventional ideas to life, experiment
 
 All the projects I create are aimed at improving the world around us. 🌍 Here you’ll find examples of my work, ranging from small utilities to complex systems, showcasing how I approach problem-solving. 🔧
 
-- **Project 1:** Description of the first project.
+- **Bread:** A project for a set of libraries and structures for development.
 
 ## Get in Touch
 
